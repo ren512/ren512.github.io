@@ -8,7 +8,7 @@ table tr th {
     color: white;
     }
 table tr td {font-wieght: bold;}
-table tr#head1 {
+table tr th#head1 {
   background-color: yellow;
   color:black;
 }
