@@ -1,0 +1,10 @@
+/*
+  Comment!~
+*/
+
+table {border: 1px solid purple;}
+table tr th { 
+    background-color: blue;
+    color: white;
+    }
+table tr td {font-wieght: bold;}
